@@ -4,7 +4,7 @@
 
 # 效果
 ![原始版](/Photo_EVA_Style/photos/Example1.jpg)
-![修改版](/processed_photos/Example1.jpg)
+![修改版](/Photo_EVA_Style/processed_photos/Example1.jpg)
 # 开始
 
 ## 准备
