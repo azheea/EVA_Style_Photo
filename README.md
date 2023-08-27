@@ -3,8 +3,8 @@
 将图片变成EVA风格
 
 # 效果
-![原始版](/photos/Example1.jpg)
-![修改版](/processed_photos/Example1.jpg)
+![原始版](/Photo_EVA_Style/photos/Example1.jpg)
+![修改版](/Photo_EVA_Style/processed_photos/Example1.jpg)
 # 开始
 
 ## 准备
